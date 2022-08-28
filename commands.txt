@@ -1,0 +1,7 @@
+// Comando para criar uma branch
+git checkout -b [nome_da_branch]
+
+// Comando para mudar de branch
+git checkout [nome_da_branch]
+
+//
