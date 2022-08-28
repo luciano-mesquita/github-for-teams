@@ -4,4 +4,12 @@ git checkout -b [nome_da_branch]
 // Comando para mudar de branch
 git checkout [nome_da_branch]
 
-//
+// Comando para ver os últimos commits
+git log
+q -> volta a página
+
+// Adiciona repositório remoto
+git remote add origin [nome_do_repostorio]
+
+// Manda para a branch
+git push origin [nome_da_branch]
